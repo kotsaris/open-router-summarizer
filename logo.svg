@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="58" fill="#171717"/>
+  <!-- Document shape -->
+  <rect x="36" y="28" width="56" height="72" rx="6" fill="white"/>
+  <!-- Text lines (top - original/faded) -->
+  <rect x="46" y="40" width="36" height="4" rx="2" fill="#d4d4d4"/>
+  <rect x="46" y="50" width="28" height="4" rx="2" fill="#d4d4d4"/>
+  <rect x="46" y="60" width="32" height="4" rx="2" fill="#d4d4d4"/>
+  <!-- Summarized lines (bottom - condensed/bold) -->
+  <rect x="46" y="74" width="36" height="5" rx="2" fill="#171717"/>
+  <rect x="46" y="84" width="24" height="5" rx="2" fill="#171717"/>
+  <!-- Spark/magic icon -->
+  <path d="M85 20 L88 28 L96 28 L90 34 L92 42 L85 37 L78 42 L80 34 L74 28 L82 28 Z" fill="white"/>
+</svg>
